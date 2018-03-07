@@ -17,6 +17,10 @@ You’ve mastered all the elements of individual work, where students are workin
 
 * [Watch 3.2: Merge conflicts](https://youtu.be/KutRjlqoBLQ)
 
+Here are some resources for your students to explore merge conflicts in class:
+* [Polygons](https://github.com/ncase/polygons)
+* [GitHub Training: Merge Conflicts](https://github.com/githubtraining/on-demand-merge-conflict)
+
 ## 3.3
 
 * [Watch 3.3 Assigning group work](https://youtu.be/If326Cpbe8E)
