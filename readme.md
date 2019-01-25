@@ -10,7 +10,7 @@ You’ve mastered all the elements of individual work, where students are workin
 2. On GitHub.com, create a module 3 repo and add it as a remote.
 3. In your terminal, create a new branch with a questions.md document, and write down any remaining questions you have about pull requests.
 4. Add a remote tracking branch and push to it.
-5. On GitHub.com, open a pull request with the branch that has your questions--you should add Chris (@ccannon94) as a reviewer for these pull requests.
+5. On GitHub.com, open a pull request with the branch that has your questions--you should add me (@mozzadrella) as a reviewer for these pull requests.
 6. Post a screenshot of your pull request to the forums. 
 
 ## 3.2
