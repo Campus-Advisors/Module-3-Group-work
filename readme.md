@@ -36,7 +36,8 @@ Here are some resources for your students to explore merge conflicts in class:
 * [Watch: Assessing collaboration](https://youtu.be/EwPxzwcn3Pw)
 * Exercise: Assess a live project
 1. Find an active open source project. 
-2. Point to 2 pieces of evidence that the project is active. These pieces of evidence can be:
+2. Point to 2 pieces of evidence that the project is active.<br>
+These pieces of evidence can be:
   - How quickly pull requests are reviewed
   - Data in Insights
   - Number of forks or stars 
