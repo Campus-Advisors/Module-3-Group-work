@@ -5,7 +5,7 @@ You’ve mastered all the elements of individual work, where students are workin
 ## 3.1
 
 * Hello
-* Exercise: Pull requests
+Blah blah blah
 1. On the command line, create repository for Module 3 and a readme file.
 2. On GitHub.com, create a module 3 repo and add it as a remote.
 3. In your terminal, create a new branch with a questions.md document, and write down any remaining questions you have about pull requests.
