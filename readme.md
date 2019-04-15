@@ -5,6 +5,7 @@ You’ve mastered all the elements of individual work, where students are workin
 ## 3.1
 
 * [Watch 3.1: The GitHub flow](https://youtu.be/QxOOna9g3IY)
+* Hello
 * Exercise: Pull requests
 1. On the command line, create repository for Module 3 and a readme file.
 2. On GitHub.com, create a module 3 repo and add it as a remote.
