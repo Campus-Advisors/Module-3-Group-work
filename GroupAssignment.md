@@ -1,8 +1,8 @@
 # Group Assignment: Accept an Assignment in GitHub Classroom
 
 Copy and paste this template, and fill in the relevant information:
-* Name:
-* School:
+* Name: Neha Niphadkar  
+* School: ODU
 * Course website or GitHub Repository:
 
 --
